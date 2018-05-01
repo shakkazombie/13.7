@@ -1,0 +1,37 @@
+{
+    "name": "git7.6",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "autoprefixer": "^8.1.0",
+        "browser-sync": "^2.23.6",
+        "globstar": "^1.0.0",
+        "html-validator": "^2.2.3",
+        "mkdirp": "^0.5.1",
+        "nu-html-checker": "^0.1.0",
+        "onchange": "^3.3.0"
+    },
+    "devDependencies": {
+        "ajax": "0.0.4",
+        "colors": "^1.2.3",
+        "glob-run": "^0.1.6",
+        "jquery": "^3.3.1",
+        "jquery-ui": "^1.12.1",
+        "jshint": "^2.9.5",
+        "node": "^9.11.0",
+        "node-sass": "^4.7.2",
+        "node.js": "0.0.0",
+        "npm-run-all": "^4.1.2",
+        "parallelshell": "^3.0.2",
+        "stat-mode": "^0.2.2",
+        "tslint": "^5.9.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Shakka Zombie",
+    "license": "ISC",
+    "description": ""
+}

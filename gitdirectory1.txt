@@ -1,0 +1,11 @@
+
+config
+description
+HEAD
+hooks
+info
+index
+packed-refs
+objects
+logs
+refs
