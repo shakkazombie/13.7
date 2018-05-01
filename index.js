@@ -12,7 +12,7 @@ fs.readFile("./text.txt", "utf-8", function(err, data) {
     console.log(data);
     fs.appendFile("./text.txt", "\nLorem ipsum dfakfalfdadalk", function(err) {
         if (err) throw err;
-        console.log("Saved!".blue);
+        console.log("Zapisano!".blue);
         fs.readFile("./text.txt", "utf-8", function(err, data) {
             console.log("zapisz po".red);
             console.log(data);
